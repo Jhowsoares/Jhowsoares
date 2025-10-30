@@ -45,6 +45,76 @@ Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco e
 Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segurança de memória e modelagem.
 
 ---
+🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
+
+Atualmente participo de um projeto de extensão acadêmica com foco em desenvolver uma solução para otimizar o cuidado a idosos em uma casa de repouso local. O projeto envolve:
+
+🔎 Pesquisa de campo
+
+- Visitas presenciais à instituição (Morada do Saber)
+
+- Identificação de dores reais:
+
+  - lembretes manuais em post-its
+
+  - ausência de alertas para medicamentos
+
+  - dificuldade em rastrear tarefas pendentes
+
+  - retrabalho administrativo
+
+🧠 Levantamento de requisitos
+
+- Entrevista com cuidadores e enfermeiros
+
+- Mapeamento de fluxos de trabalho
+
+- Priorização de funcionalidades com stakeholders
+
+🧩 Prototipação
+
+- Desenvolvimento de telas no Figma
+
+- Organização da jornada de usuário
+
+- Refinamento visual e usabilidade
+
+💻 Desenvolvimento de software
+
+- Arquitetura inicial do sistema web
+
+- Cadastro de pacientes e rotinas personalizadas
+
+- Lembretes automatizados para medicamentos e tarefas
+
+
+🌱 Impacto social
+
+- O sistema reduz:
+
+  - risco de esquecimentos
+
+  - sobrecarga operacional
+
+  - retrabalho manual
+
+  - perda de informações
+
+- E promove:
+
+  - qualidade de vida aos idosos
+
+  - eficiência da equipe
+
+  - rastreabilidade de informações
+
+  - centralização confiável de dados
+
+🌎 ODS relacionada
+
+Objetivo de Desenvolvimento Sustentável nº 3 — Saúde e Bem-Estar
+Apoia diretamente qualidade de atendimento e monitoramento de saúde.
+---
 
 ## 📫 Contato
 - GitHub: **github.com/Jhowsoares**
