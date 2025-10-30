@@ -48,7 +48,7 @@ Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segu
 
 ## 📫 Contato
 - GitHub: **github.com/Jhowsoares**
-- LinkedIn: [linkedin](https://www.linkedin.com/in/jhonata-soaress/)
-- Email: (jvsoaress@gmail.com)
+- LinkedIn: [Jhonata Soares](https://www.linkedin.com/in/jhonata-soaress/)
+- Email: jvsoaress@gmail.com
 
 Obrigado por visitar meu perfil!
