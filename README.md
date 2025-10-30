@@ -8,22 +8,36 @@ Estudante de Engenharia da Computação, focado em desenvolvimento de software c
 Migrar para a área de desenvolvimento de software, atuando com front-end e automação de processos. Tenho também interesse em backend e soluções relacionadas a produtividade e sistemas para ambientes institucionais.
 
 ---
+<details>
+  <summary>Habilidades</summary>
+  ## 🧩 Tecnologias e Ferramentas
+  - **Front-end:** HTML, CSS, JavaScript  
+  - **Back-end:** Python (Flask + SQLAlchemy)  
+  - **Bancos de Dados:** SQL  
+  - **Ferramentas:** Git, GitHub, Figma  
+  - **Aprendendo:** Rust, arquitetura de sistemas, padrões de projeto  
 
-## 🧩 Tecnologias e Ferramentas
-- **Front-end:** HTML, CSS, JavaScript  
-- **Back-end:** Python (Flask + SQLAlchemy)  
-- **Bancos de Dados:** SQL  
-- **Ferramentas:** Git, GitHub, Figma  
-- **Aprendendo:** Rust, arquitetura de sistemas, padrões de projeto  
+  Próximos passos de estudo:
+  - FastAPI / Django
+  - Node.js
+  - MongoDB
 
-Próximos passos de estudo:
-- FastAPI / Django
-- Node.js
-- MongoDB
+  ## 💻 Aprendizado Contínuo
+  Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco em:
+  - Estruturas de dados
+  - Boas práticas de código
+  - Organização de sistemas
+  - Comunicação com usuários (design e UX)
+
+  Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segurança de memória e modelagem.
+  
+</details>
 
 ---
 
-## 🚀 Projetos em Destaque
+<details>
+  <summary>Projetos em destaque</summary>
+  ## 🚀 Projetos em Destaque
 - **Sistema de Gestão para Casa de Repouso**  
   Solução para organização de pacientes, lembretes de tarefas e automação de processos internos para profissionais cuidadores.
 
@@ -33,21 +47,12 @@ Próximos passos de estudo:
 - **Protótipo de sistema de agendamento**  
   Solução para agendamento de salas e laboratórios da minha faculdade
 
----
-
-## 💻 Aprendizado Contínuo
-Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco em:
-- Estruturas de dados
-- Boas práticas de código
-- Organização de sistemas
-- Comunicação com usuários (design e UX)
-
-Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segurança de memória e modelagem.
+</details>
 
 ---
 
 <details>
-  <summary>Mais sobre mim</summary>
+  <summary>Projeto de Extenção</summary>
 
   🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
 
@@ -121,10 +126,14 @@ Apoia diretamente qualidade de atendimento e monitoramento de saúde.
 </details>
 
 ---
+<details>
+  <summary>Contato</summary>
+  ## 📫 Contato
+  - GitHub: **github.com/Jhowsoares**
+  - LinkedIn: [Jhonata Soares](https://www.linkedin.com/in/jhonata-soaress/)
+  - Email: jvsoaress@gmail.com 
+</details>
 
-## 📫 Contato
-- GitHub: **github.com/Jhowsoares**
-- LinkedIn: [Jhonata Soares](https://www.linkedin.com/in/jhonata-soaress/)
-- Email: jvsoaress@gmail.com
+---
 
 Obrigado por visitar meu perfil!
