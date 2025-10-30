@@ -10,6 +10,7 @@ Migrar para a área de desenvolvimento de software, atuando com front-end e auto
 ---
 <details>
   <summary>Habilidades</summary>
+  
   ## 🧩 Tecnologias e Ferramentas
   - **Front-end:** HTML, CSS, JavaScript  
   - **Back-end:** Python (Flask + SQLAlchemy)  
@@ -37,6 +38,7 @@ Migrar para a área de desenvolvimento de software, atuando com front-end e auto
 
 <details>
   <summary>Projetos em destaque</summary>
+  
   ## 🚀 Projetos em Destaque
 - **Sistema de Gestão para Casa de Repouso**  
   Solução para organização de pacientes, lembretes de tarefas e automação de processos internos para profissionais cuidadores.
@@ -128,6 +130,7 @@ Apoia diretamente qualidade de atendimento e monitoramento de saúde.
 ---
 <details>
   <summary>Contato</summary>
+  
   ## 📫 Contato
   - GitHub: **github.com/Jhowsoares**
   - LinkedIn: [Jhonata Soares](https://www.linkedin.com/in/jhonata-soaress/)
