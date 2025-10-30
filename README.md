@@ -45,7 +45,11 @@ Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco e
 Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segurança de memória e modelagem.
 
 ---
-🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
+
+<details>
+  <summary>Mais sobre mim</summary>
+
+  🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
 
 Atualmente participo de um projeto de extensão acadêmica com foco em desenvolver uma solução para otimizar o cuidado a idosos em uma casa de repouso local. O projeto envolve:
 
@@ -114,6 +118,8 @@ Atualmente participo de um projeto de extensão acadêmica com foco em desenvolv
 
 Objetivo de Desenvolvimento Sustentável nº 3 — Saúde e Bem-Estar
 Apoia diretamente qualidade de atendimento e monitoramento de saúde.
+</details>
+
 ---
 
 ## 📫 Contato
