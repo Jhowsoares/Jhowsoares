@@ -54,7 +54,7 @@ Migrar para a área de desenvolvimento de software, atuando com front-end e auto
 ---
 
 <details>
-  <summary>Projeto de Extenção</summary>
+  <summary>Projeto de Extensão</summary>
 
   🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
 
