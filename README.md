@@ -1,11 +1,6 @@
 # 👋 Olá! Eu sou o Jhonata Viana Soares
 
-Estudante de Engenharia da Computação, focado em desenvolvimento de software com ênfase em soluções web e automação. Atualmente estou construindo projetos reais para desenvolver habilidades técnicas, boas práticas e consolidar um portfólio profissional.
-
----
-
-## 🎯 Objetivo
-Migrar para a área de desenvolvimento de software, atuando com front-end e automação de processos. Tenho também interesse em backend e soluções relacionadas a produtividade e sistemas para ambientes institucionais.
+Estudante de Engenharia da Computação, com experiencia em suporte técnico, aperfeiçoando meus conhecimentos em desenvolvimento de software com ênfase em soluções web e automação. Atualmente estou construindo projetos reais para desenvolver habilidades técnicas, boas práticas e consolidar um portfólio profissional.
 
 ---
 <details>
