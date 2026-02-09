@@ -1,12 +1,14 @@
 # 👋 Olá! Eu sou o Jhonata Viana Soares
 
-Estudante de Engenharia da Computação, com experiencia em suporte técnico, aperfeiçoando meus conhecimentos em desenvolvimento de software com ênfase em soluções web e automação. Atualmente estou construindo projetos reais para desenvolver habilidades técnicas, boas práticas e consolidar um portfólio profissional.
+Estudante de Engenharia da Computação, com experiência em suporte técnico e em processo de desenvolvimento de habilidades em programação e engenharia de software. Atuo com desenvolvimento web e automação, construindo projetos acadêmicos e pessoais para aplicar boas práticas, fortalecer a lógica de programação e consolidar um portfólio profissional.
 
 ---
 <details>
   <summary>Habilidades</summary>
   
   ## 🧩 Tecnologias e Ferramentas
+Tecnologias que utilizo em projetos acadêmicos, pessoais e atividades de estudo contínuo:
+
   - **Front-end:** HTML, CSS, JavaScript  
   - **Back-end:** Python (Flask + SQLAlchemy)  
   - **Bancos de Dados:** SQL  
@@ -20,12 +22,9 @@ Estudante de Engenharia da Computação, com experiencia em suporte técnico, ap
 
   ## 💻 Aprendizado Contínuo
   Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco em:
-  - Estruturas de dados
-  - Boas práticas de código
-  - Organização de sistemas
+  - Lógica e estruturas de dados
+  - Organização e legibilidade de código
   - Comunicação com usuários (design e UX)
-
-  Mesmo iniciando em Rust, utilizo a linguagem para reforçar lógica, tipos, segurança de memória e modelagem.
   
 </details>
 
@@ -53,7 +52,7 @@ Estudante de Engenharia da Computação, com experiencia em suporte técnico, ap
 
   🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
 
-Atualmente participo de um projeto de extensão acadêmica com foco em desenvolver uma solução para otimizar o cuidado a idosos em uma casa de repouso local. O projeto envolve:
+Participei de um projeto de extensão acadêmica com foco em desenvolver uma solução para otimizar o cuidado a idosos em uma casa de repouso local. O projeto envolve:
 
 🔎 Pesquisa de campo
 
@@ -96,30 +95,14 @@ Atualmente participo de um projeto de extensão acadêmica com foco em desenvolv
 
 🌱 Impacto social
 
-- O sistema reduz:
+A solução contribui para:
 
-  - risco de esquecimentos
+- Redução de esquecimentos e retrabalho
 
-  - sobrecarga operacional
+- Melhoria da organização operacional
 
-  - retrabalho manual
+- Centralização e rastreabilidade das informações
 
-  - perda de informações
-
-- E promove:
-
-  - qualidade de vida aos idosos
-
-  - eficiência da equipe
-
-  - rastreabilidade de informações
-
-  - centralização confiável de dados
-
-🌎 ODS relacionada
-
-Objetivo de Desenvolvimento Sustentável nº 3 — Saúde e Bem-Estar
-Apoia diretamente qualidade de atendimento e monitoramento de saúde.
 </details>
 
 ---
@@ -136,4 +119,4 @@ Apoia diretamente qualidade de atendimento e monitoramento de saúde.
 
 ---
 
-Obrigado por visitar meu perfil!
+Obrigado por visitar meu perfil! Estou sempre aberto a conexões, aprendizado e novas oportunidades.
