@@ -1,122 +1,130 @@
-# 👋 Olá! Eu sou o Jhonata Viana Soares
+<div align="center">
 
-Estudante de Engenharia da Computação, com experiência em suporte técnico e em processo de desenvolvimento de habilidades em programação e engenharia de software. Atuo com desenvolvimento web e automação, construindo projetos acadêmicos e pessoais para aplicar boas práticas, fortalecer a lógica de programação e consolidar um portfólio profissional.
+# Jhonata Viana Soares
 
----
-<details>
-  <summary>Habilidades</summary>
-  
-  ## 🧩 Tecnologias e Ferramentas
-Tecnologias que utilizo em projetos acadêmicos, pessoais e atividades de estudo contínuo:
+**Engenharia da Computação · UniFECAF**
 
-  - **Front-end:** HTML, CSS, JavaScript  
-  - **Back-end:** Python (Flask + SQLAlchemy)  
-  - **Bancos de Dados:** SQL  
-  - **Ferramentas:** Git, GitHub, Figma  
-  - **Aprendendo:** Rust, arquitetura de sistemas, padrões de projeto  
+[![Portfolio](https://img.shields.io/badge/Portfólio-online-4CAF50?logo=google-chrome&logoColor=white)](https://jhonatasoares-portifolio.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonata--soaress-0077B5?logo=linkedin)](https://www.linkedin.com/in/jhonata-soaress/)
+[![GitHub](https://img.shields.io/badge/GitHub-Jhowsoares-181717?logo=github)](https://github.com/Jhowsoares)
+[![Email](https://img.shields.io/badge/Email-jvsoaress@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jvsoaress@gmail.com)
 
-  Próximos passos de estudo:
-  - FastAPI / Django
-  - Node.js
-  - MongoDB
+> Desenvolvimento web · IoT · Automação · UX · Ciência de Dados
 
-  ## 💻 Aprendizado Contínuo
-  Tenho explorado diferentes tecnologias construindo pequenos projetos, com foco em:
-  - Lógica e estruturas de dados
-  - Organização e legibilidade de código
-  - Comunicação com usuários (design e UX)
-  
-</details>
+</div>
 
 ---
 
-<details>
-  <summary>Projetos em destaque</summary>
-  
-  ## 🚀 Projetos em Destaque
-- **Sistema de Gestão para Casa de Repouso**  
-  Solução para organização de pacientes, lembretes de tarefas e automação de processos internos para profissionais cuidadores.
+## Sobre
 
-- **Protótipo Web para Projeto Acadêmico**  
-  Desenvolvimento de páginas institucionais e fluxo de navegação para apresentação de cursos.
+Estudante de Engenharia da Computação com foco em desenvolvimento web, sistemas IoT e automação de processos. Construo projetos acadêmicos e pessoais para aplicar boas práticas e consolidar um portfólio profissional sólido.
 
-- **Protótipo de sistema de agendamento**  
-  Solução para agendamento de salas e laboratórios da minha faculdade
-
-</details>
+| | |
+|---|---|
+| **Localização** | Taboão da Serra — SP |
+| **Instituição** | UniFECAF |
+| **Foco atual** | Back-end · IoT · Machine Learning |
 
 ---
 
-<details>
-  <summary>Projeto de Extensão</summary>
+## Repositórios
 
-  🌿 Projeto de Extensão — Sistema de Apoio para Casa de Repouso
+### Destaque
 
-Participei de um projeto de extensão acadêmica com foco em desenvolver uma solução para otimizar o cuidado a idosos em uma casa de repouso local. O projeto envolve:
+| Repositório | Descrição | Stack | Status |
+|-------------|-----------|-------|--------|
+| [SmartBuilding_ExpoTech](https://github.com/Jhowsoares/SmartBuilding_ExpoTech) | Sistema IoT de controle inteligente de AC — ExpoTech 2026 | Python · FastAPI · React · Docker · MQTT · ML | [![Docs](https://img.shields.io/badge/docs-GitHub_Pages-orange?logo=readme)](https://jhowsoares.github.io/SmartBuilding_ExpoTech/) |
+| [gestao-pacientes](https://github.com/Jhowsoares/gestao-pacientes) | Sistema de gestão para clínica de idosos — Projeto de Extensão | Web | ativo |
 
-🔎 Pesquisa de campo
+### Web & Back-end
 
-- Visitas presenciais à instituição (Morada do Saber)
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [api_notas](https://github.com/Jhowsoares/api_notas) | API REST para gerenciamento de notas | — |
+| [agendador-laboratorio](https://github.com/Jhowsoares/agendador-laboratorio) | Agendamento de laboratórios da faculdade | HTML · CSS · JS |
+| [UniFecaf-website](https://github.com/Jhowsoares/UniFecaf-website) | Protótipo de página para cursos de engenharia | HTML · CSS |
 
-- Identificação de dores reais:
+### Mobile
 
-  - lembretes manuais em post-its
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [MobileDevelopment-UniFecaf](https://github.com/Jhowsoares/MobileDevelopment-UniFecaf) | Experiências em desenvolvimento mobile — UniFECAF | TypeScript · React Native |
 
-  - ausência de alertas para medicamentos
+### Data Science & Machine Learning
 
-  - dificuldade em rastrear tarefas pendentes
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [SaborExpress-Roteamento_inteligente_ML](https://github.com/Jhowsoares/SaborExpress-Roteamento_inteligente_ML) | Roteamento inteligente para otimização de entregas | Python |
+| [DataScience_com_Healthcare-solutions](https://github.com/Jhowsoares/DataScience_com_Healthcare-solutions) | Ciência de dados aplicada à saúde | Python |
 
-  - retrabalho administrativo
+### Automação & QA
 
-🧠 Levantamento de requisitos
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [ProcessAutomation_-_IAbots](https://github.com/Jhowsoares/ProcessAutomation_-_IAbots) | Scripts de estudo para automação de processos com IA | — |
+| [ProjetoQA_E-bookMY](https://github.com/Jhowsoares/ProjetoQA_E-bookMY) | Plataforma de cursos em E-book — disciplina de QA | — |
 
-- Entrevista com cuidadores e enfermeiros
+### Estudos & Experimentação
 
-- Mapeamento de fluxos de trabalho
-
-- Priorização de funcionalidades com stakeholders
-
-🧩 Prototipação
-
-- Desenvolvimento de telas no Figma
-
-- Organização da jornada de usuário
-
-- Refinamento visual e usabilidade
-
-💻 Desenvolvimento de software
-
-- Arquitetura inicial do sistema web
-
-- Cadastro de pacientes e rotinas personalizadas
-
-- Lembretes automatizados para medicamentos e tarefas
-
-
-🌱 Impacto social
-
-A solução contribui para:
-
-- Redução de esquecimentos e retrabalho
-
-- Melhoria da organização operacional
-
-- Centralização e rastreabilidade das informações
-
-</details>
-
----
-<details>
-  <summary>Contato</summary>
-  
-  ## 📫 Contato
-
-  - Portifólio: [Meu Portifólio](https://jhonatasoares-portifolio.onrender.com/)
-  - GitHub: **github.com/Jhowsoares**
-  - LinkedIn: [Jhonata Soares](https://www.linkedin.com/in/jhonata-soaress/)
-  - Email: jvsoaress@gmail.com 
-</details>
+| Repositório | Descrição | Stack |
+|-------------|-----------|-------|
+| [AppPedidos_Rust](https://github.com/Jhowsoares/AppPedidos_Rust) | Aplicativo de pedidos para treinar estruturas de dados | Rust |
+| [mcp-with-copilot](https://github.com/Jhowsoares/mcp-with-copilot) | Integração MCP com GitHub Copilot | JavaScript |
+| [DesafiosDIO](https://github.com/Jhowsoares/DesafiosDIO) | Soluções de desafios da plataforma DIO | JavaScript |
 
 ---
 
-Obrigado por visitar meu perfil! Estou sempre aberto a conexões, aprendizado e novas oportunidades.
+## Stack
+
+| Camada | Tecnologias |
+|--------|-------------|
+| **Front-end** | HTML · CSS · JavaScript · React 18 |
+| **Back-end** | Python · Flask · FastAPI · SQLAlchemy |
+| **Mobile** | React Native · TypeScript |
+| **Banco de Dados** | PostgreSQL · SQL |
+| **DevOps / Infra** | Docker · Docker Compose · Git · GitHub |
+| **IoT / Mensageria** | MQTT · Redis |
+| **Machine Learning** | scikit-learn |
+| **Design / UX** | Figma |
+| **Em aprendizado** | Rust · Django · Node.js · MongoDB |
+
+> Detalhes: [docs/stack.md](docs/stack.md)
+
+---
+
+## Documentação
+
+| Documento | Conteúdo |
+|-----------|----------|
+| [docs/projetos.md](docs/projetos.md) | Descrição detalhada de cada repositório |
+| [docs/stack.md](docs/stack.md) | Stack técnica completa e próximos passos |
+| [docs/extensao.md](docs/extensao.md) | Projeto de extensão — Sistema para Casa de Repouso |
+
+---
+
+## Projeto em destaque — SmartBuilding ExpoTech 2026
+
+> Plataforma IoT para monitoramento e automação de climatização em edifícios corporativos.
+
+- 14 salas simuladas publicando temperatura, umidade e presença via MQTT a cada 5s
+- 10 regras de negócio (desligamento por ausência, horário comercial, alertas de consumo)
+- Predição de consumo 24h com scikit-learn
+- Dashboard React com controle de AC, relatórios e alertas
+- API REST documentada (OpenAPI 3 · Swagger · ReDoc)
+
+**Stack:** FastAPI · PostgreSQL · Redis · Mosquitto · React 18 · Docker Compose · scikit-learn
+
+| Recurso | Link |
+|---------|------|
+| Repositório | [SmartBuilding_ExpoTech](https://github.com/Jhowsoares/SmartBuilding_ExpoTech) |
+| Documentação pública | [GitHub Pages](https://jhowsoares.github.io/SmartBuilding_ExpoTech/) |
+
+---
+
+<div align="center">
+
+**Jhonata Viana Soares · Taboão da Serra — SP**
+
+Atualizado em maio/2026
+
+</div>
