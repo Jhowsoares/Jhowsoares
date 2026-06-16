@@ -12,7 +12,7 @@
 
 ---
 
-Estudante de Engenharia da Computação com foco em **desenvolvimento web**, **sistemas IoT** e **automação de processos**. Construo projetos acadêmicos e pessoais para aplicar boas práticas e consolidar um portfólio profissional sólido.
+Formado em Engenharia da Computação com foco em **desenvolvimento web**, **sistemas IoT** e **automação de processos**. Construo projetos acadêmicos e pessoais para aplicar boas práticas e consolidar um portfólio profissional sólido.
 
 ---
 
