@@ -3,7 +3,7 @@
 # Jhonata Viana Soares
 **Engenharia da Computação · UniFECAF | Bacharelado em Inteligência Artificial · Univesp | · Taboão da Serra — SP**
 
-[![Portfólio](https://img.shields.io/badge/Portfólio-online-4CAF50?logo=google-chrome&logoColor=white)](https://jhonatasoares-portifolio.onrender.com/)
+<!--[![Portfólio](https://img.shields.io/badge/Portfólio-online-4CAF50?logo=google-chrome&logoColor=white)](https://jhonatasoares-portifolio.onrender.com/)-->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jhonata--soaress-0077B5?logo=linkedin)](https://linkedin.com/in/jhonata-soaress)
 [![Email](https://img.shields.io/badge/Email-jvsoaress@gmail.com-D14836?logo=gmail&logoColor=white)](mailto:jvsoaress@gmail.com)
 
