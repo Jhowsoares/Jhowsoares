@@ -35,5 +35,5 @@ Sou formado em **Engenharia da Computação** e estudante **Inteligência Artifi
 | :--- | :--- | :--- |
 | **[Smart Building](https://github.com/Jhowsoares/SmartBuilding_ExpoTech)** | Sistema IoT de automação predial e eficiência energética com API RESTful, mensageria MQTT e pipeline de CI/CD automatizado. | `FastAPI` `Docker` `MQTT` `ESP32` `OpenAPI` |
 | **[Aurora](https://github.com/Jhowsoares/Aurora)** | Plataforma full-stack para gestão assistencial de pacientes, com prontuário, agendamento, modo DEMO e banco PostgreSQL hospedado. | `Python` `Flask` `PostgreSQL` |
-| **[Me Ajuda AI](https://github.com/QerashosT/Me_Ajuda_AI)** | Aplicação de gerenciamento e controle financeiro inteligente com automações e regras de apoio à tomada de decisão. | `Python` `APIs` `SQL` |
+| **[Data Science & Analytics](https://github.com/Jhowsoares/analise-preditiva-saude)** | Sistema de análise preditiva e dashboard interativo para previsão de custos médicos e otimização de recursos hospitalares usando Python, Scikit-Learn e Streamlit. | `Python` `Scikit-Learn` `Streamlit` |
 ---
